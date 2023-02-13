@@ -1,0 +1,21 @@
+{
+    "actions": [
+        {
+            "name": "MAIN",
+            "intent": {
+                "name": "actions.intent.MAIN"
+            },
+            "fulfillment": {
+                "conversationName": "nix-utilities-new"
+            }
+        }
+    ],
+    "conversations": {
+        "nix-utilities-new": {
+            "name": "nix-utilities-new",
+            "url": "https://app.yellowmessenger.com/integrations/googleAssistant/x1545318165708",
+            "fulfillmentApiVersion": 2
+        }
+    },
+    "locale": "en-IN"
+}
